@@ -1,0 +1,27 @@
+* 299042b (HEAD -> master, origin/master) una version nueva del titulo del hyperblog
+* ef5d5a1 Cambio de titulo del Hyperblog
+* 7021500 antes de enviar a repositorio github
+*   e2d8362 Merge branch 'master' of https://github.com/cdukcom/Hyperblog
+|\  
+| * d27ffec (origin/main) Initial commit
+* 0656080 doy salvar a estilos despues del merge
+*   21d0f2f solucione el conflicto de las ramas al fusionar
+|\  
+| * 47aeed3 (cabecera) modifique la cabecera y el color del texto
+* | 108a17e modifique la cabecera maestra, el color del texto a azul y agregue subcripción
+|/  
+* 17e3567 volvi a Arial
+*   6294ae5 Merge branch 'cabecera'
+|\  
+| * 2e11b16 Finalizada la cabecera con diseño azul
+| * 190e654 Otro cambio a la cabecera
+| * 9cd7e42 Adicione mas info a la cabecera
+| * 9641c4b Linea inicial cabecera
+* | 18d73c3 agregado el contenido del blog y cambio de tipo de letra
+|/  
+* cd36db1 Version diciembre 2 22 agregando caja
+* 89313cf obra maestra
+* d23799b cambio por vida
+* d33e7e7 Arranco mi proyecto real con html y css
+* d74f1a4 cambios hoy 28nov
+* 4b34e2a Este es el primer commit de este archivo
