@@ -4,9 +4,13 @@ Carlos Duque tiene 46 años y nacio en Colombia.
 
 Hoy hablaremos de su vida.
 
+<<<<<<< HEAD
 Experimento 2
 
 Experimento 1
+=======
+Master 2
+>>>>>>> 81a29b7 (Agregué Master 2)
 
 Master 1
 
